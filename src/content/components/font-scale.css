@@ -1,5 +1,7 @@
 import React from 'react';
 
+import styles from '../../styles/font-scale.scss';
+
 const IndexPage = (props) => {
   return (
     <div className="scale">
